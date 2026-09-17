@@ -22,9 +22,14 @@ Installation
 
 Commands
 --------
+/qd                 Open setting menu
+
 /qd pos <x> <y>     Move the display
+
 /qd scale <number>  Change size (try 0.30 to 0.55)
+
 /qd sound           Toggle sound on/off
+
 /qd test            Test sound + pulse animation
 
 Notes
