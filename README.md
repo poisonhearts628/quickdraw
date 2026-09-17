@@ -36,4 +36,3 @@ Notes
 -----
 - Position and scale are saved automatically.
 - Works on Corsair main or sub job.
-- Sound file must be named reload.wav (16-bit WAV recommended).
