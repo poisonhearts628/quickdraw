@@ -4,7 +4,6 @@ Quick Draw Charge Tracker (Ashita v4)
 Files in this folder:
 - quickdraw.lua      → The addon script
 - burning_card.png   → The card image used for charges
-- reload.wav         → (Optional) Put your gun reload sound here
 
 Installation
 ------------
